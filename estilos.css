@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Lobster&family=Roboto+Mono:wght@200;600&family=Turret+Road&display=swap');
+
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: 'Roboto Mono';
+    letter-spacing: 5px;
+}
+
+h1 {
+    font-family: 'Lobster';
+    font-size: 22mm;
+    text-decoration: overline;
+    text-align: center;
+    color: #000
+}
+
+h1:hover {
+    color:#BE93C5;
+}
+
+h2,h3,h4 {
+    font-family: 'Turret Road';
+    color:#000;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+p {
+    letter-spacing: 5px;
+}
+
+/* Nav */
+
+nav a {
+    text-decoration:none;
+    color:inherit;
+}
+
+nav li{
+    display:inline-block;
+}
+
+nav li:hover{
+    background-color:#7BC6CC;
+    color:#000;
+}
+
+/* footer */
+
+footer ul li {
+    font-family: 'Lobster';
+    display: inline;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+footer p {
+    text-align: center;
+}
+
+/* INDEX */
+
+.centrar-esto p {
+    text-align: center;
+}
+
+.color h2 {
+    text-shadow: 2px 5px rgb(167, 212, 235);
+}
+/* PORTFOLIO */
+
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+}
+
+.globo {
+    text-align: center;
+}
+
+.centrar-esto p {
+    text-align: center;
+}
+
+.weight .a {
+    font-weight: 800;
+    font-size: 16mm;
+    text-align: center;
+}
+
+.weight .b {
+    font-weight: 700;
+    font-size: 16mm;
+    text-align: center;
+    color: transparent
+}
+
+.weight .b:hover {
+    color: #BE93C5;
+}
+
+.weight .c {
+    font-weight: 500;
+    font-size: 16mm;
+    text-align: center;
+}
+/* ABOUT */
+
+section h2 {
+    color: #7BC6CC;
+}
+
+section h2:hover {
+    color: darkorchid;
+}
+
+.otro-color #mas-espaciado {
+    font-family: 'Turret Road';
+    text-align: center;
+    word-spacing: 30px;
+    color: #BE93C5;
+    margin-bottom: 20mm;
+}
+.escalera {
+    white-space: pre;
+}
+
+/* CONTACT */
