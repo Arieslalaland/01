@@ -1,1 +1,1 @@
-﻿# 01 is another very very very inital practice.
+﻿# 01 it's another very very very initial practice.
